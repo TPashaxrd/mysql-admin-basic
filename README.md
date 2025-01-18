@@ -6,4 +6,4 @@ Admin PHP and Database
 - Esays & ID Delete
 - Esays Setting
 
-# Created by TPàshà
+# Created by Toprak
